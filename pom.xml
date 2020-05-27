@@ -61,7 +61,7 @@
     <maven-gpg-version>1.6</maven-gpg-version>
     <maven.test.skip>false</maven.test.skip>
     <simple-http.version>1.0</simple-http.version>
-    <lombok-version>1.18.10</lombok-version>
+    <lombok-version>1.18.12</lombok-version>
     <junit-version>4.11</junit-version>
     <fastjson-version>1.2.68</fastjson-version>
     <alipay-sdk-version>4.8.10.ALL</alipay-sdk-version>
